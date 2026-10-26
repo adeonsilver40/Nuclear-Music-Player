@@ -221,4 +221,4 @@ Nuclear Music Player is offered as a full free version under the Affero GPL lice
 Download **Nuclear Music Player** today and experience the freedom of unlimited music listening without ads or tracking!
 
 ---
-**Last updated:** 2026-10-26 19:08:29 UTC
+**Last updated:** 2026-10-26 23:43:09 UTC
